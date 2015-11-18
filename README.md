@@ -1,3 +1,0 @@
-# jenkinsdemo
-
-dbdbd
